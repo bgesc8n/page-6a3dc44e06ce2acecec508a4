@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-14d3207b2f.cyxxa.cn/sitemap.xml

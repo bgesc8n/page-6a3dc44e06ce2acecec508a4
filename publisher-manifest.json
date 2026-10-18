@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "8364dad10ef8348ea2c30807",
+  "owner": "bgesc8n",
+  "repo": "page-6a3dc44e06ce2acecec508a4",
+  "title": "rocsky",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "6a3dc44e06ce2acecec508a4",
+      "a": "rocsky",
+      "b": "",
+      "entity": "rocsky",
+      "brand": "rocsky",
+      "separator": "",
+      "path": "index.html",
+      "hash": "5095935d1543c01687986373166e51d38afaa12a50d42e1f2a1d79e2db69f65b",
+      "content": {
+        "keyword1": "rocsky",
+        "keyword2": "",
+        "primary_entity": "rocsky",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "rocsky 提供清晰、务实的高效能网络连接与传输方案，满足不同规模与场景的日常使用需求。",
+          "AI_DESCRIPTION": "rocsky 提供清晰、务实的高效能网络连接与传输方案，满足不同规模与场景的日常使用需求。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n:root {--bg: #F7F5F0;--text: #2C2A29;--primary: #9C382C;--panel: #FFFFFF;--border: #D3CEC4;--muted: #6B6764}\n* {box-sizing: border-box;margin: 0;padding: 0}\nbody {background-color: var(--bg);color: var(--text);font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif;line-height: 1.6;padding: 2rem 1rem}\nmain {max-width: 900px;margin: 0 auto}\n.hero {padding: 4rem 0 3rem 0;border-bottom: 2px dashed var(--border);margin-bottom: 3rem}\n.hero h1 {font-size: clamp(4rem, 15vw, 11rem);font-weight: 900;line-height: 0.9;color: var(--primary);text-transform: uppercase;letter-spacing: -0.05em;margin-bottom: 1.5rem}\n.hero-desc {font-size: 1.25rem;max-width: 600px;color: var(--text);margin-bottom: 2rem}\n.hero-links {display: flex;gap: 1.5rem;flex-wrap: wrap}\n.hero-links a {color: var(--primary);text-decoration: none;font-weight: bold;border-bottom: 2px solid var(--primary);padding-bottom: 0.2rem}\nsection {margin-bottom: 4rem}\nh2 {font-size: 2rem;margin-bottom: 1.5rem;font-weight: 700;color: var(--primary);letter-spacing: -0.02em}\np {margin-bottom: 1rem}\n.ticket-card {border: 2px dashed var(--border);background: var(--panel);padding: 2rem;margin-bottom: 1.5rem;position: relative}\n.ticket-card h3 {font-size: 1.5rem;margin-bottom: 0.5rem}\n.ticket-card .price {font-size: 1.25rem;font-weight: bold;color: var(--primary);margin-bottom: 1rem}\n.ticket-card ul {list-style: none;margin-bottom: 1.5rem}\n.ticket-card li {padding: 0.3rem 0;color: var(--muted);border-bottom: 1px solid var(--bg)}\n.ticket-card li:last-child {border-bottom: none}\n.ticket-card .annual {font-size: 0.9rem;color: var(--muted);margin-bottom: 1rem}\n.action-btn {display: inline-block;background: var(--primary);color: var(--bg);padding: 0.75rem 1.5rem;text-decoration: none;font-weight: bold;border: none}\n.steps-list {display: flex;flex-direction: column;gap: 1.5rem}\n.step-item {border: 2px dashed var(--border);background: var(--panel);padding: 1.5rem}\n.step-item h3 {font-size: 1.2rem;margin-bottom: 0.5rem;color: var(--primary)}\n.faq-list {display: flex;flex-direction: column;gap: 1rem}\n.faq-item {border: 2px dashed var(--border);background: var(--panel);padding: 1.5rem}\n.faq-item h3 {font-size: 1.1rem;margin-bottom: 0.5rem}\n.faq-item p {color: var(--muted);margin-bottom: 0}\nfooter {border-top: 2px dashed var(--border);padding-top: 2rem;text-align: center;color: var(--muted);font-size: 0.9rem}\n@media (max-width: 600px) {\n  body {padding: 1rem 0.5rem}\n  .ticket-card, .step-item, .faq-item {padding: 1rem}\n}\n</style><main>\n  <header class=\"hero\">\n    <h1>rocsky</h1>\n    <p class=\"hero-desc\">面向现代数字工作流的高效能网络连接与传输方案。我们注重实际效能与稳定性，为各类使用场景提供清晰、务实的配置选项。</p>\n    <div class=\"hero-links\">\n      <a href=\"#plans\">查看方案</a>\n      <a href=\"#guide\">使用说明</a>\n      <a href=\"#faq\">常见问题</a>\n    </div>\n  </header>\n\n  <section id=\"plans\">\n    <h2>方案选择</h2>\n    <div class=\"ticket-card\">\n      <h3>基础版</h3>\n      <div class=\"price\">¥15/月</div>\n      <div class=\"annual\">按年付仅需 ¥150/年</div>\n      <ul>\n        <li>每月 100GB 基础流量</li>\n        <li>支持 3 台设备同时在线</li>\n        <li>标准连接节点</li>\n        <li>基础技术支持</li>\n      </ul>\n      <a href=\"#\" class=\"action-btn\">选择基础版</a>\n    </div>\n\n    <div class=\"ticket-card\">\n      <h3>旗舰版</h3>\n      <div class=\"price\">¥35/月</div>\n      <div class=\"annual\">按年付仅需 ¥350/年</div>\n      <ul>\n        <li>每月 300GB 高速流量</li>\n        <li>支持 5 台设备同时在线</li>\n        <li>全节点高速通道访问</li>\n        <li>专属优化路由支持</li>\n        <li>7x24 优先工单支持</li>\n      </ul>\n      <a href=\"#\" class=\"action-btn\">选择旗舰版</a>\n    </div>\n\n    <div class=\"ticket-card\">\n      <h3>团队版</h3>\n      <div class=\"price\">¥85/月</div>\n      <div class=\"annual\">按年付仅需 ¥850/年</div>\n      <ul>\n        <li>每月 1000GB 高速流量</li>\n        <li>支持 20 台设备同时在线</li>\n        <li>VIP 专属高带宽节点</li>\n        <li>支持企业定制路由</li>\n        <li>专属客户经理服务</li>\n      </ul>\n      <a href=\"#\" class=\"action-btn\">选择团队版</a>\n    </div>\n  </section>\n\n  <section id=\"guide\">\n    <h2>使用说明</h2>\n    <div class=\"steps-list\">\n      <div class=\"step-item\">\n        <h3>01. 账户注册</h3>\n        <p>访问 rocsky 官网完成新用户注册，获取账户凭证。</p>\n      </div>\n      <div class=\"step-item\">\n        <h3>02. 选择方案</h3>\n        <p>根据实际网络需求，挑选适合的基础版、旗舰版或团队版方案并完成订购。</p>\n      </div>\n      <div class=\"step-item\">\n        <h3>03. 获取配置</h3>\n        <p>在用户面板中查阅对应客户端的配置指引与连接参数。</p>\n      </div>\n      <div class=\"step-item\">\n        <h3>04. 开始使用</h3>\n        <p>将参数导入支持的客户端软件中，即可建立连接并开始网络传输任务。</p>\n      </div>\n    </div>\n  </section>\n\n  <section id=\"faq\">\n    <h2>常见问题</h2>\n    <div class=\"faq-list\">\n      <div class=\"faq-item\">\n        <h3>01. 如何修改账户密码或重置订阅信息？</h3>\n        <p>登录用户后台，在“账户设置”页面中即可进行密码修改与订阅重置操作。</p>\n      </div>\n      <div class=\"faq-item\">\n        <h3>02. 流量额度是如何计算与重置的？</h3>\n        <p>流量按自然月或订购周期进行重置，未用完的流量不累计到下一个周期。</p>\n      </div>\n      <div class=\"faq-item\">\n        <h3>03. 支持在哪些设备和系统上使用？</h3>\n        <p>支持主流桌面及移动操作系统，用户可在面板中找到对应的客户端配置说明。</p>\n      </div>\n      <div class=\"faq-item\">\n        <h3>04. 遇到连接不稳定时应该如何排查？</h3>\n        <p>建议先检查本地网络状态，尝试更换节点或重新导入订阅链接。如无法解决，可通过工单联系支持团队。</p>\n      </div>\n    </div>\n  </section>\n\n  <footer>\n    <p>© rocsky. All rights reserved.</p>\n  </footer>\n</main>",
+          "hash": "4b3f0767c035fa3d6736d7bcb5bede823c6b70fc6950e0d9874375a23076b2c4",
+          "seo": {
+            "title": "rocsky - 高效能网络连接与传输方案",
+            "keywords": "rocsky, 网络传输, 连接方案, 基础版, 旗舰版, 团队版",
+            "description": "rocsky 提供清晰、务实的高效能网络连接与传输方案，满足不同规模与场景的日常使用需求。"
+          },
+          "provider": "grok",
+          "model": "gemini-3.7-flash",
+          "design": {
+            "no": "6041",
+            "hero": "2 超大字号品牌名铺满首屏的海报式",
+            "palette": "2 米白配砖红",
+            "nav": "6 无导航，用区块内的跳转链接",
+            "card": "6 虚线框票据风格",
+            "plans_view": "2 纵向列表逐行展开",
+            "faq_view": "2 编号列表",
+            "tone": "6 清单式务实口吻",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "cyxxa.cn",
+    "host": "p-14d3207b2f.cyxxa.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "33aeaa935a748bc0b93f4de20585551bab332e30e9060701b910e5e73b9717f9",
+    "sitemap.xml": "da3211eab2d2a0cc37519b3f6c92ebc0983974cc1fd2b58476db97b9123ea7f9",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "7758ff5e04aab29f9f75138ca03c48194fd78e8ffcf4f8092cffbfe874ab169a",
+    "robots.txt": "814cd4b21452971a8197b9ea8d654920d2be7fd6caf1c77f1dc4fcfc52defae0",
+    "0624dbe7c50c1d008d1692d16fd704ef.txt": "b85b0c1ee8c818ae714d42bf09430f52b06ad052876f12ee4042e97e811510ff"
+  },
+  "revision": "ffc9067f81412421f08d40727f1f7c24f4b14474041cf5d170463385b34f17ae"
+}
